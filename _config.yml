@@ -1,6 +1,7 @@
 remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+skin: "/assets/css/skins/dark.css"
 
 # Site settings
 title: 
