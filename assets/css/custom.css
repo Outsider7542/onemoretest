@@ -1,1 +1,20 @@
-test
+---
+---
+
+/* Override styles for So Simple theme */
+
+/* Set background color to black */
+body {
+  background-color: #000000;
+}
+
+/* Set navigation bar background to silver and text color to black */
+.nav-bar {
+  background-color: #C0C0C0;
+  color: #000000;
+}
+
+/* Style links in navigation bar to be black */
+.nav-bar a {
+  color: #000000;
+}
