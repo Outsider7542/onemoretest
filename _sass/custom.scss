@@ -1,0 +1,23 @@
+---
+---
+
+// Import the original So Simple theme styles
+@import "so-simple-theme";
+
+// Override styles for custom colors
+
+// Set background color to black
+body {
+  background-color: #000000;
+}
+
+// Set navigation bar background to silver and text color to black
+.nav-bar {
+  background-color: #C0C0C0; /* Adjust this color code to your preferred silver shade */
+  color: #000000; /* Black text color */
+}
+
+// Style links in navigation bar to be black
+.nav-bar a {
+  color: #000000; /* Black text color for links */
+}
