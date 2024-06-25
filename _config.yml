@@ -1,3 +1,22 @@
 remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Site settings
+title: 
+description: 
+url: https://outsider7542.github.io/onemoretest
+logo: "/assets/logo/your-logo-file.png"
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Services"
+    url: "/services/"
+  - title: "Contact"
+    url: "/contact/"
+
+    # Custom styles
+extra_stylesheets:
+  - /assets/css/custom.css
