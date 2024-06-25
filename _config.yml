@@ -10,9 +10,9 @@ logo: "/assets/logo/lockten-tech-high-resolution-logo-transparentbg.png"
 
 # Navigation links
 navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Services"
-    url: "/services/"
-  - title: "Contact"
-    url: "/contact/"
+  - title: Home
+    url: /
+  - title: Services
+    url: /services/
+  - title: Contact
+    url: /contact/
