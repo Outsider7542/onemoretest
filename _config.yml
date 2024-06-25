@@ -16,7 +16,3 @@ navigation:
     url: "/services/"
   - title: "Contact"
     url: "/contact/"
-
-    # Custom styles
-extra_stylesheets:
-  - /assets/css/custom.css
